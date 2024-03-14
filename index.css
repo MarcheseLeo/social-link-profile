@@ -1,0 +1,19 @@
+.attribution {
+    font-size: 11px;
+     text-align: center;
+     margin-top: 40px;
+   }
+
+   .attribution a {
+     color: hsl(228, 45%, 44%);
+   }
+
+   .image {
+     background-image: url('./assets/images/misaki.jpg');
+     background-size: contain;
+   }
+
+   .menu .link{
+     background-color:hsl(0, 0%, 20%);
+     font-weight: 700;
+   }
